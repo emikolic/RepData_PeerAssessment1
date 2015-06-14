@@ -1,6 +1,6 @@
 ---
 title: "PA1_template.Rmd"
-author: "Emina Mikolic"
+author: "emikolic"
 date: "Sunday, June 14, 2015"
 output: html_document
 ---
@@ -43,10 +43,6 @@ dim(withoutNA)
 
 ```r
 library(ggplot2)
-```
-
-```
-## Warning: package 'ggplot2' was built under R version 3.1.3
 ```
 
 

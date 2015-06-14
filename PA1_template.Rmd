@@ -1,6 +1,6 @@
 ---
 title: "PA1_template.Rmd"
-author: "Emina Mikolic"
+author: "emikolic"
 date: "Sunday, June 14, 2015"
 output: html_document
 ---
